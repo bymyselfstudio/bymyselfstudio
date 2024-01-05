@@ -9,6 +9,13 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning PowerShell, C# and Git.
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+  <img src="https://www.powershellgallery.com/Content/Images/Branding/packageDefaultIcon.png" width="32px" height="32">
+</a>
+
+
+
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
