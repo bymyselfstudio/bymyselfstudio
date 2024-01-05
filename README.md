@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=bymyselfstudio&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=bymyselfstudio&color=blue&style=for-the-badge)
 
 
 <!--
