@@ -9,7 +9,7 @@ I'm currently...
 
 🔭 working on a file renaming gui app
 
-🌱 learning PowerShell, C# and Git.
+🌱 learning PowerShell, C#, WPF and MAUI
 
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
@@ -27,6 +27,14 @@ I'm currently...
    <a href="https://git-scm.com">
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="40px height="40px">
    </a>
+
+   <!-- WPF -->
+   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-8.0">
+   <img src="https://pic4.zhimg.com/50/v2-06f957e72756783fd7d73ff3e1b04a85_qhd.jpg" width="40px" height="40px">
+
+  <!-- MAUI -->
+   <a href="https://dotnet.microsoft.com/en-us/apps/maui">
+   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg">
 </div>
 
 <!-- Profile view counter | source: https://github.com/antonkomarev/github-profile-views-counter -->
