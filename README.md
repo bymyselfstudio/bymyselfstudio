@@ -7,7 +7,7 @@ I'm a software engineer in education and I live in Germany.
 
 I'm currently...
 
-🔭 working on a file renaming gui app
+🔭 working on several WPF apps
 
 🌱 learning PowerShell, C#, WPF and MAUI
 
