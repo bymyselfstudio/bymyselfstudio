@@ -11,6 +11,8 @@ I'm currently...
 
 🌱 learning PowerShell, C#, WPF and MAUI
 
+<br>
+
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
   <!-- PowerShell -->
@@ -25,7 +27,7 @@ I'm currently...
   
    <!-- Git -->
    <a href="https://git-scm.com">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="40px height="40px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="35px height="35px">
    </a>
 
    <!-- WPF -->
@@ -34,8 +36,10 @@ I'm currently...
 
   <!-- MAUI -->
    <a href="https://dotnet.microsoft.com/en-us/apps/maui">
-   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg" width="40px" height="40px">
+   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg" width="35px" height="35px">
 </div>
+     
+<br>
 
 <!-- Profile view counter | source: https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=bymyselfstudio&color=blue&style=for-the-badge)
