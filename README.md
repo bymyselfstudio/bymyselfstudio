@@ -11,8 +11,6 @@ I'm currently...
 
 🌱 learning PowerShell, C#, WPF and MAUI
 
-<br>
-
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
   <!-- PowerShell -->
@@ -43,7 +41,6 @@ I'm currently...
 
 <!-- Profile view counter | source: https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=bymyselfstudio&color=blue&style=for-the-badge)
-
 
 
 <!--
