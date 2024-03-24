@@ -35,7 +35,7 @@ I'm currently...
    <img src="https://pic4.zhimg.com/50/v2-06f957e72756783fd7d73ff3e1b04a85_qhd.jpg" width="40px" height="40px">
 
   <!-- MAUI -->
-   <a href="https://dotnet.microsoft.com/en-us/apps/maui">
+   <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0">
    <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg" width="35px" height="35px">
 </div>
      
