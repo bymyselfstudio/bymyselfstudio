@@ -9,7 +9,7 @@ I'm currently...
 
 🔭 working on several WPF apps
 
-🌱 learning PowerShell, C#, WPF and MAUI
+🌱 learning PowerShell, C#, Git, WPF and MAUI
 
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
