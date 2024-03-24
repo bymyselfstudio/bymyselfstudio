@@ -34,7 +34,7 @@ I'm currently...
 
   <!-- MAUI -->
    <a href="https://dotnet.microsoft.com/en-us/apps/maui">
-   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg">
+   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg" width="40px" height="40px">
 </div>
 
 <!-- Profile view counter | source: https://github.com/antonkomarev/github-profile-views-counter -->
