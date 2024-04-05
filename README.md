@@ -7,7 +7,7 @@ I'm a software engineer in education and I live in Germany.
 
 I'm currently...
 
-🔭 working on several WPF apps
+🔭 working on several WPF apps and my website
 
 🌱 learning C#, Git, WPF and Web Design
 
