@@ -9,32 +9,41 @@ I'm currently...
 
 🔭 working on several WPF apps
 
-🌱 learning PowerShell, C#, Git, WPF and MAUI
+🌱 learning C#, Git, WPF and Web Design
 
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
-  <!-- PowerShell -->
-  <a href="https://learn.microsoft.com/en-us/powershell/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="40px" height="40"  style="display:inline">
-  </a>
   
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+   <!-- C# -->
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40px" height="40px">
-  </a>
-  
+   </a>
+
    <!-- Git -->
    <a href="https://git-scm.com">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="35px height="35px">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="35px height="35px">
    </a>
 
    <!-- WPF -->
    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-8.0">
-   <img src="https://pic4.zhimg.com/50/v2-06f957e72756783fd7d73ff3e1b04a85_qhd.jpg" width="40px" height="40px">
+     <img src="https://pic4.zhimg.com/50/v2-06f957e72756783fd7d73ff3e1b04a85_qhd.jpg" width="40px" height="40px">
+   </a>
 
-  <!-- MAUI -->
-   <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0">
-   <img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/3/306e7564-d5eb-4af3-b3b2-e6aa1f21a9ce/cover.jpg" width="35px" height="35px">
+   <!-- HTML -->
+   <a href="https://www.w3schools.com/html/default.asp">
+     <img src="https://logospng.org/download/html-5/logo-html-5-1024.png" width="35px" height="35px">
+   </a>
+
+   <!-- CSS -->
+   <a href="https://www.w3schools.com/css/default.asp">
+     <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" width="35px" height="35px">
+   </a>
+
+   <!-- JS -->
+   <a href="https://www.w3schools.com/js/default.asp">
+     <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
+   </a> 
+    
 </div>
      
 <br>
