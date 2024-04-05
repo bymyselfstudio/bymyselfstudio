@@ -16,17 +16,17 @@ I'm currently...
   
    <!-- C# -->
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40px" height="40px">
+    <img src="https://crystalpng.com/wp-content/uploads/2023/02/C-Sharp-logo-600x600.png" width="35px" height="35px">
    </a>
 
    <!-- Git -->
    <a href="https://git-scm.com">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Git_Icon.svg" width="35px height="35px">
+     <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="35px height="35px">
    </a>
 
    <!-- WPF -->
    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-8.0">
-     <img src="https://pic4.zhimg.com/50/v2-06f957e72756783fd7d73ff3e1b04a85_qhd.jpg" width="40px" height="40px">
+     <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="35px" height="35px">
    </a>
 
    <!-- HTML -->
