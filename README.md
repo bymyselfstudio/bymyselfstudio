@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a software engineer in education and I live in Germany.
+I'm a software engineer and I live in Germany.
 <!--
 **bymyselfstudio/bymyselfstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I'm currently...
 
-🔭 working on my website
+🔭 working on my website and a fitness tracker app
 
 🌱 learning web design
 
@@ -29,25 +29,25 @@ I'm currently...
      <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="35px" height="35px">
    </a> -->
 
-   <!-- HTML -->
+   <!-- HTML 
    <a href="https://www.w3schools.com/html/default.asp">
      <img src="https://logospng.org/download/html-5/logo-html-5-1024.png" width="35px" height="35px">
-   </a>
+   </a>-->
 
-   <!-- CSS -->
+   <!-- CSS 
    <a href="https://www.w3schools.com/css/default.asp">
      <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" width="35px" height="35px">
-   </a>
+   </a>-->
 
-   <!-- JS -->
+   <!-- JS 
    <a href="https://www.w3schools.com/js/default.asp">
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
-   </a> 
+   </a> -->
 
-   <!-- Angular -->
+   <!-- Angular 
    <a href="https://www.w3schools.com/angular/default.asp">
      <img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-1024.png" width="40px" height="40px">
-   </a>
+   </a>-->
    
     
 </div>
