@@ -9,7 +9,7 @@ I'm currently...
 
 🔭 working on my website and a fitness tracker app
 
-🌱 learning web design
+🌱 studying web app development
 
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
