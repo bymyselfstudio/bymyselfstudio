@@ -29,21 +29,26 @@ I'm currently...
      <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="35px" height="35px">
    </a> -->
 
-   <!-- HTML 
+   <!-- HTML -->
    <a href="https://www.w3schools.com/html/default.asp">
      <img src="https://logospng.org/download/html-5/logo-html-5-1024.png" width="35px" height="35px">
-   </a>-->
+   </a>
 
-   <!-- CSS 
+   <!-- CSS -->
    <a href="https://www.w3schools.com/css/default.asp">
      <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" width="35px" height="35px">
-   </a>-->
+   </a>
 
-   <!-- JS 
+   <!-- JS -->
    <a href="https://www.w3schools.com/js/default.asp">
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
-   </a> -->
+   </a> 
 
+   <!-- Vue.js -->
+   <a href="https://www.w3schools.com/vue/index.php">
+     <img src="https://logospng.org/download/vue.js/vue-js-1536.png" width="35px" height="35px">
+   </a>
+   
    <!-- Angular 
    <a href="https://www.w3schools.com/angular/default.asp">
      <img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-1024.png" width="40px" height="40px">
