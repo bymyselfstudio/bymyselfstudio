@@ -44,9 +44,9 @@ I'm currently...
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
    </a> 
 
-   <!-- Vue.js -->
-   <a href="https://www.w3schools.com/vue/index.php">
-     <img src="https://logospng.org/download/vue.js/vue-js-1536.png" width="35px" height="35px">
+   <!-- Ember.js -->
+   <a href="https://emberjs.com/">
+     <img src="https://blog.emberjs.com/images/logos/e-icon.png" width="34px" height="34px">
    </a>
    
    <!-- Angular 
