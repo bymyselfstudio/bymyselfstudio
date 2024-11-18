@@ -1,15 +1,14 @@
-### Hi there 👋
-
-I'm a software engineer and I live in Germany.
 <!--
 **bymyselfstudio/bymyselfstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm currently...
+### Hi there 👋
 
-🔭 working on my website and a fitness tracker app
+I'm a software engineer from Germany and I'm currently...
 
 🌱 studying web app development
+
+🔭 improving practice skills in several small projects
 
 <!-- Container for inline logo visualization -->
 <div style="display:flex; vertical-align:middle;">
