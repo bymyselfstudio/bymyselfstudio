@@ -43,15 +43,15 @@ I'm a software engineer from Germany and I'm currently...
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
    </a> 
 
-   <!-- Ember.js -->
+   <!-- Ember.js
    <a href="https://emberjs.com/">
      <img src="https://blog.emberjs.com/images/logos/e-icon.png" width="34px" height="34px">
-   </a>
+   </a> -->
    
-   <!-- Angular 
+   <!-- Angular -->
    <a href="https://www.w3schools.com/angular/default.asp">
      <img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-1024.png" width="40px" height="40px">
-   </a>-->
+   </a>
    
     
 </div>
